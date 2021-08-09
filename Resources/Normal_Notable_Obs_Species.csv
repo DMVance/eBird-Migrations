@@ -1,524 +1,580 @@
 Species_Code,Common_Name,Scientific_Name,Date,Bird_Count,lat,lng,subId,Notable_Normal,Year,Month,Day,Family_Name,Notable
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-10-01 14:23,1.0,31.999400800000004,-109.27201240000001,S74298477,1,2020,10,1,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-10-01 08:58,1.0,32.295309,-110.81549299999999,S74279465,1,2020,10,1,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-10-01 06:37,1.0,31.417106,-110.24528400000001,S74276679,1,2020,10,1,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 18:12,2.0,32.3712145,-106.76917790000002,S74262129,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 17:38,1.0,31.4920438,-110.9900558,S74261962,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 17:27,2.0,31.913600899999995,-109.14080049999998,S74262487,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 15:27,1.0,30.617379800000002,-104.0970039,S74264939,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 13:20,1.0,32.3590068,-106.7305477,S74253006,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 10:41,1.0,31.9063055,-109.15342890000001,S74262961,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 09:30,2.0,32.97675,-107.38454399999999,S74252224,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 06:47,3.0,32.920771,-107.575696,S74237325,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-30 06:26,1.0,31.725151399999998,-110.8801067,S74246757,1,2020,9,30,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-29 17:08,1.0,32.4427119,-110.7598686,S74299272,1,2020,9,29,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-29 13:41,1.0,29.491776799999997,-103.4670389,S74228818,1,2020,9,29,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-29 10:37,1.0,31.5390131,-110.7606337,S74215516,1,2020,9,29,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-29 08:10,2.0,31.4156019,-110.2765277,S74232217,1,2020,9,29,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-29 08:00,1.0,35.526299,-105.92454450000001,S74206862,1,2020,9,29,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-29 07:30,1.0,31.3904516,-110.23924960000001,S74219835,1,2020,9,29,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-29 06:23,1.0,32.0982815,-110.68491770000001,S74205019,1,2020,9,29,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 16:06,1.0,31.8815054,-109.1891165,S74192365,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 16:00,1.0,34.1726552,-103.32496579999999,S74192560,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 14:47,1.0,35.133632500000004,-106.47365570000001,S74186016,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 10:59,1.0,31.9041957,-109.15615559999999,S74264908,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 09:52,1.0,31.784625,-106.493959,S74260208,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 09:00,1.0,30.621146799999998,-103.9823824,S74212192,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 08:59,2.0,35.6484708,-105.98657630000001,S74174909,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 07:45,1.0,35.69397,-105.96309,S74166578,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 07:15,1.0,31.408813399999996,-110.10678290000001,S74181753,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 07:00,1.0,31.4641892,-109.95619609999999,S74175452,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 06:48,1.0,35.1346021,-106.6947944,S74166598,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-28 06:30,1.0,31.3853692,-110.22732140000002,S74176911,1,2020,9,28,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-27 12:49,1.0,34.693806,-112.0264882,S74139624,1,2020,9,27,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-27 09:14,1.0,30.618894,-103.982375,S74120070,1,2020,9,27,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-27 09:10,1.0,40.3125911,-111.90620179999999,S74122202,1,2020,9,27,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-27 08:30,1.0,35.7534278,-105.92437290000001,S74124616,1,2020,9,27,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-27 08:14,3.0,32.976337,-107.376797,S74122711,1,2020,9,27,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-27 08:00,1.0,33.9878886,-106.88517350000001,S74118511,1,2020,9,27,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-27 06:20,1.0,31.7941059,-106.5324983,S74170738,1,2020,9,27,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-27 06:15,2.0,31.911851000000002,-109.13673,S74146712,1,2020,9,27,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 16:35,1.0,31.9350554,-109.2191966,S74100992,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 16:06,1.0,34.434354799999994,-103.7991207,S74107853,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 12:32,1.0,31.9150326,-109.2690586,S74103333,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 12:10,2.0,31.911621000000004,-109.14336899999999,S74125703,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 11:20,1.0,31.932800300000004,-109.2713013,S74103221,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 10:45,3.0,32.976353,-107.376698,S74081067,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 10:42,1.0,31.915746000000002,-109.26733700000001,S74103045,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 09:15,1.0,39.582366,-104.95551699999999,S74075872,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 08:13,2.0,31.868876399999998,-109.1883919,S74103185,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 08:06,1.0,43.664123499999995,-116.29459080000001,S74101103,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 06:45,1.0,31.480015,-110.2874,S74073568,1,2020,9,26,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-25 18:30,2.0,32.8266086,-108.2696753,S74056838,1,2020,9,25,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-25 15:00,1.0,32.4484106,-110.78106470000002,S74228592,1,2020,9,25,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-25 11:18,1.0,31.8867772,-109.1731811,S74045994,1,2020,9,25,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-25 07:53,1.0,35.0835605,-106.262354,S74032972,1,2020,9,25,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-25 07:53,2.0,35.2204294,-106.60668899999999,S74038244,1,2020,9,25,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-25 06:59,2.0,35.256019,-106.59549240000001,S74032682,1,2020,9,25,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 17:10,1.0,31.4204234,-110.24750230000001,S74020283,1,2020,9,24,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 16:53,1.0,40.096993,-105.1766367,S74015007,1,2020,9,24,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 16:05,1.0,32.2591891,-109.84160940000001,S74016559,1,2020,9,24,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 14:00,1.0,31.866988199999998,-106.6506936,S74012185,1,2020,9,24,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 13:00,1.0,31.9144645,-109.1443118,S74012958,1,2020,9,24,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 10:17,1.0,32.322136,-106.761435,S74031434,1,2020,9,24,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 09:28,1.0,35.13,-106.68299999999999,S74002693,1,2020,9,24,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 06:20,1.0,31.72993,-108.97962,S73999354,1,2020,9,24,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 15:02,1.0,39.228007500000004,-106.9321307,S73982396,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 12:48,1.0,32.4282238,-106.54777050000001,S73984870,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 12:35,1.0,31.913814000000002,-109.140933,S73988079,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 08:59,1.0,34.0880439,-109.41298400000001,S73997360,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 08:09,1.0,35.3792071,-104.19666600000001,S73957744,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 07:55,1.0,40.7432253,-111.8728888,S73961486,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 07:19,1.0,35.67391679999999,-106.07101540000001,S73960515,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 07:00,1.0,31.863755600000005,-106.6263426,S73959343,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 06:36,1.0,35.17348079999999,-111.67486609999999,S74025143,1,2020,9,23,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 19:02,1.0,31.858597999999997,-106.61149440000001,S73944333,1,2020,9,22,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 17:05,1.0,35.5527006,-105.97133629999999,S74013045,1,2020,9,22,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 14:35,1.0,38.130708299999995,-108.2882452,S73946298,1,2020,9,22,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 13:44,2.0,35.0026369,-106.1884354,S73934314,1,2020,9,22,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 08:16,1.0,35.082939,-106.26224199999999,S73923166,1,2020,9,22,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 07:41,1.0,40.7351775,-111.84345959999999,S73922705,1,2020,9,22,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 07:15,1.0,39.7007566,-105.1545078,S73923854,1,2020,9,22,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 16:51,1.0,45.711345200000004,-121.4985982,S74088948,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 14:30,1.0,45.584697,-111.08061780000001,S73920620,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 10:49,1.0,38.2689881,-108.5435727,S73876628,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 09:35,1.0,31.8012696,-106.50383590000001,S73875311,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 09:15,1.0,37.309720299999995,-107.8546625,S73885378,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 09:07,1.0,42.6663004,-118.5646731,S73902185,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 09:02,2.0,32.323151,-106.74301399999999,S73879525,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 08:43,1.0,35.251931,-106.601219,S73871449,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 07:54,1.0,35.8198309,-106.20192859999999,S73871604,1,2020,9,21,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 15:15,2.0,31.836878499999997,-109.02866359999999,S73858250,1,2020,9,20,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 08:34,1.0,34.448625,-111.47089199999999,S73839486,1,2020,9,20,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 08:13,1.0,31.7905434,-106.4549595,S73859506,1,2020,9,20,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 07:52,1.0,35.038646,-106.20418899999999,S73827930,1,2020,9,20,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 07:33,1.0,31.7535968,-103.16094720000001,S73820698,1,2020,9,20,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 07:20,1.0,35.2265012,-106.5988129,S73834720,1,2020,9,20,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 07:03,1.0,31.8349826,-106.6082811,S73827036,1,2020,9,20,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 07:02,1.0,38.799285299999994,-109.20469779999999,S73843065,1,2020,9,20,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 11:14,1.0,37.980140000000006,-100.86064,S73780644,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 10:55,1.0,31.50034,-110.275623,S73790163,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 10:30,1.0,35.080786100000005,-106.67179579999998,S73788091,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 09:51,1.0,35.167564,-106.3801861,S73802889,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 09:05,1.0,38.4273028,-120.91780190000001,S73788812,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 08:23,1.0,31.5177588,-110.38843909999999,S73785673,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 08:15,1.0,30.5962706,-103.9347249,S73808538,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 07:45,1.0,37.772750099999996,-111.61555770000001,S73811217,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 06:39,2.0,34.8020211,-106.7173827,S73780632,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 06:23,1.0,31.438428499999997,-110.10765259999998,S73780696,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19,1.0,32.284824,-106.76451440000001,S73783815,1,2020,9,19,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 17:45,1.0,39.635246,-104.88372,S73763449,1,2020,9,18,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 17:27,1.0,35.1279291,-106.5902513,S73759085,1,2020,9,18,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 10:03,1.0,34.821938,-111.818123,S73743515,1,2020,9,18,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 09:35,1.0,32.1861206,-110.8162263,S73753353,1,2020,9,18,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 09:11,1.0,35.3160816,-111.5550497,S73742200,1,2020,9,18,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 08:00,1.0,38.455858500000005,-107.86321159999999,S73743049,1,2020,9,18,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 07:58,1.0,31.858608,-106.611631,S73736205,1,2020,9,18,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 07:00,1.0,34.8212285,-111.8185955,S73758371,1,2020,9,18,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 17:47,1.0,37.919348,-99.40875,S73719656,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 17:25,1.0,35.1770706,-106.6414225,S73722393,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 09:50,1.0,31.421952,-110.2966156,S73707180,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 08:40,1.0,34.9274153,-110.1438162,S73707490,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 08:28,2.0,33.322058,-108.87548600000001,S73783729,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 07:48,1.0,39.8723965,-75.3699875,S73703131,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 07:33,1.0,32.001288,-104.794715,S73788404,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 07:19,1.0,32.8668999,-107.30595590000001,S73786192,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 07:18,1.0,35.4760727,-106.0940893,S73699964,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17,1.0,30.366062300000003,-103.6742771,S73707905,1,2020,9,17,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 18:07,1.0,31.8209406,-106.5630008,S73687837,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 17:35,1.0,32.328408,-110.850251,S73688211,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 17:00,2.0,30.6153115,-103.99194720000001,S73684664,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 15:30,1.0,35.8955694,-105.2120683,S73765329,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 10:20,1.0,34.520846999999996,-103.1939531,S73670878,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 09:45,1.0,31.898838199999997,-109.16225109999999,S73707771,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 08:30,1.0,31.380465,-110.22796100000001,S73667954,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 08:10,1.0,32.252515100000004,-106.8224716,S73674990,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 08:00,1.0,39.99704620000001,-105.1141834,S73690549,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 07:45,1.0,35.084377,-106.6203403,S73675421,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 07:30,4.0,35.6954328,-106.00573909999999,S73665406,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 06:49,1.0,32.255728000000005,-110.733631,S73665953,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 06:37,2.0,35.098239,-106.621195,S73699616,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 06:17,1.0,32.5567428,-117.0849895,S73672491,1,2020,9,16,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 18:50,1.0,31.9626851,-106.66609879999999,S73651312,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 14:35,2.0,33.7945401,-106.87392709999999,S73651057,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 14:18,1.0,38.752878499999994,-108.0821228,S73641627,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 12:34,1.0,38.5491054,-106.9416825,S73637425,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 10:55,1.0,32.2602256,-106.7233005,S73759219,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 08:56,1.0,39.0541513,-108.57414720000001,S73637015,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 08:17,1.0,31.9172001,-109.2790985,S73645715,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 08:05,1.0,32.373369,-106.833055,S73638865,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 08:00,1.0,44.95731370000001,-116.2246686,S73685649,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 07:45,1.0,37.770384,-100.01158120000001,S73644857,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 07:43,5.0,35.245661,-106.67038500000001,S73623906,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 07:42,1.0,32.261174,-106.723557,S73634090,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 07:22,1.0,32.2718803,-107.73518349999999,S73625149,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 07:02,1.0,35.892598,-106.06332649999999,S73624169,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 06:54,1.0,35.88890670000001,-106.3039041,S73629662,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 06:27,1.0,31.609460499999997,-110.9072828,S73623885,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 06:08,1.0,31.40806,-110.28618999999999,S73638258,1,2020,9,15,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 18:50,1.0,35.0997114,-106.4901729,S73611639,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 18:40,2.0,35.166683,-106.608448,S73613688,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 18:15,1.0,35.2365936,-106.64332150000001,S73612636,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 18:07,1.0,32.8329031,-108.2023307,S73611785,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 17:51,1.0,31.906998699999995,-104.84845159999999,S73614922,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 17:50,1.0,40.0615193,-105.19967079999999,S73614101,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 17:42,1.0,40.228496500000006,-105.2900537,S73611282,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 17:33,1.0,35.233990999999996,-111.6723078,S73610408,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 14:41,1.0,37.002968200000005,-101.8990248,S73645429,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 14:25,1.0,37.166153,-107.293053,S73612788,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 11:58,1.0,45.5397283,-122.61791940000002,S73598747,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 11:40,1.0,43.583185,-116.319601,S73610888,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 10:34,1.0,39.731811900000004,-104.9635506,S73592991,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 10:33,1.0,32.9189081,-112.8944135,S73610802,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 10:15,1.0,31.3804217,-110.2280459,S73597034,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 09:55,2.0,30.538090399999998,-103.8373661,S73590649,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 09:33,2.0,33.322025,-108.875579,S73687789,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 08:30,1.0,43.5885907,-116.148853,S73602342,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 08:15,2.0,32.920078000000004,-107.57048999999999,S73588833,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 08:08,1.0,35.5650743,-106.10243799999999,S73593325,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 07:52,1.0,35.6881106,-106.01458219999999,S73592094,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 07:31,1.0,33.1953785,-108.2047625,S73645246,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 07:15,1.0,35.894271100000005,-106.314421,S73587676,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 07:09,1.0,35.953365999999995,-106.077946,S73601173,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 06:54,1.0,36.3991437,-105.58968540000001,S73585999,1,2020,9,14,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 20:04,1.0,35.550845100000004,-105.89245859999998,S73572418,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 19:00,1.0,35.203636700000004,-106.7292628,S73626392,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 18:51,1.0,33.5550145,-101.8639944,S73570915,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 18:06,1.0,39.60007120000001,-104.95748880000001,S73612820,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 18:00,1.0,41.2439403,-111.94215870000001,S73570499,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 17:00,1.0,33.772476700000006,-106.90216540000002,S73572100,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 16:59,1.0,35.159068,-106.28697,S73567971,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 16:45,1.0,31.73085,-110.08034099999999,S73568834,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 16:25,1.0,38.24766029999999,-122.9069294,S73573671,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 16:20,1.0,31.554618400000003,-111.01009740000002,S73568693,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 15:46,1.0,40.3922659,-111.80963700000001,S73562407,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 15:35,1.0,39.69314310000001,-105.11813159999998,S73942110,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 15:30,1.0,39.6699438,-105.1566154,S73727434,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 14:30,1.0,39.0945641,-108.54101659999999,S73701326,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 14:30,1.0,39.05808629999999,-108.6256027,S73575988,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 13:29,1.0,39.080071999999994,-108.61443799999999,S73558435,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 11:46,1.0,38.9077124,-104.7308421,S73593529,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 11:17,3.0,34.2629286,-111.2922733,S73550170,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 10:42,1.0,31.7533506,-103.1600324,S73549745,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 10:17,1.0,35.182301,-106.456346,S73557020,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 10:15,1.0,31.40989,-110.22613,S73549669,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 10:05,1.0,33.804815000000005,-106.890672,S73563935,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 10:03,1.0,35.044607,-106.494747,S73563876,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 07:50,1.0,31.788932,-106.45850300000001,S73547151,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 07:46,1.0,34.916191299999994,-110.1956713,S73547925,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 07:30,1.0,32.914508399999995,-109.82701780000001,S73543047,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 07:23,1.0,31.460941,-110.361756,S73550826,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 06:50,1.0,32.1091003,-104.47109990000001,S73548519,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 05:52,1.0,31.7861076,-109.29813359999999,S73560343,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13,2.0,45.4279826,-122.7044092,S73564154,1,2020,9,13,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 17:28,1.0,35.9046116,-106.3249058,S73522484,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 17:10,1.0,35.259488399999995,-105.3619767,S73701776,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 15:40,1.0,39.9811158,-105.2421463,S73527523,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 15:01,2.0,34.3455437,-106.8729065,S73526965,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 15:00,1.0,35.1866503,-106.5303196,S73528105,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 14:19,1.0,36.4960351,-102.7922433,S73539581,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 13:28,1.0,39.998361200000005,-105.1126385,S73523832,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 12:34,1.0,35.5794525,-106.3208389,S73505621,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 12:13,1.0,40.270803,-111.642358,S73539671,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 11:40,1.0,44.332582099999996,-121.40424509999998,S73507641,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 11:15,1.0,39.8739445,-105.1244831,S73503556,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 11:14,1.0,40.6788592,-111.79000320000002,S73505205,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 10:48,1.0,35.044511,-106.494649,S73503539,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 10:47,1.0,34.9547058,-110.3489811,S73551800,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 10:31,1.0,39.0996931,-108.51775649999999,S73501131,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 10:20,1.0,39.9826408,-105.14963190000002,S73565315,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 09:46,1.0,39.612733500000004,-105.0528091,S73502007,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 09:30,1.0,34.630238899999995,-111.78103390000001,S73948739,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 09:20,2.0,31.7840489,-109.30400549999999,S73522690,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 09:18,1.0,31.603425,-111.046801,S73500800,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 08:57,1.0,35.2167001,-106.41532790000001,S73506285,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 08:38,1.0,43.9880226,-121.3856649,S73496222,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 08:30,1.0,34.6654589,-106.74408400000002,S73512664,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 08:00,1.0,41.069058500000004,-111.5140689,S73505807,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 07:49,1.0,35.3797518,-106.49892209999999,S73495210,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 07:45,1.0,32.841844300000005,-108.51084709999999,S73519619,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 07:32,1.0,31.428,-110.291,S73522217,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 05:56,1.0,31.763421100000002,-109.26993370000001,S73519016,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 05:56,1.0,34.1873109,-109.30448059999999,S73496719,1,2020,9,12,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 17:05,1.0,34.782141700000004,-110.0435498,S73477628,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 17:00,1.0,31.9099043,-109.1572626,S73482071,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 15:57,1.0,39.551925,-104.930901,S73472592,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 15:56,2.0,35.4020376,-111.7567062,S74144817,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 13:50,1.0,33.392264000000004,-110.77366599999999,S73474481,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 13:40,1.0,41.742641299999995,-111.80900159999999,S73465947,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 13:39,1.0,34.886581,-110.19236399999998,S73468633,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 13:30,1.0,31.409552500000004,-109.8806739,S73494175,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 13:15,1.0,40.0464088,-105.18336299999999,S73471938,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 13:00,2.0,38.279134,-112.645982,S73491559,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 11:58,1.0,35.883959600000004,-106.33587069999999,S73462559,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 10:30,2.0,40.6689542,-111.50197849999999,S73473723,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 09:30,1.0,36.950808,-105.53532,S73457062,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 09:30,1.0,39.952974,-105.168632,S73559686,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 09:08,1.0,31.921224,-109.1282621,S73475511,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 09:00,1.0,46.0690116,-118.28640190000002,S73463501,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 08:41,1.0,31.872171999999996,-109.075432,S73481284,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 08:30,1.0,38.785587400000004,-104.8077768,S73593612,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 08:26,2.0,36.902374,-105.58228600000001,S73456033,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 07:45,1.0,34.6571294,-106.7389577,S73465228,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 07:40,1.0,39.1139793,-120.9788835,S73474012,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 07:30,1.0,40.72125379999999,-111.5377307,S73463201,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 06:54,1.0,39.4882906,-104.7610822,S73451134,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 06:48,1.0,32.594728499999995,-110.9195124,S73458180,1,2020,9,11,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 18:46,1.0,31.7861256,-106.49630800000001,S73667683,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 18:08,1.0,31.6044847,-111.04557460000001,S73442458,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 18:04,1.0,34.540062,-110.7286,S73444012,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 17:59,2.0,40.0352379,-105.20709509999999,S73440940,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 16:47,1.0,35.050426,-106.49724599999999,S73439501,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 15:32,1.0,35.059931,-106.809715,S73434857,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 14:30,1.0,46.279812799999995,-119.34875430000001,S73562139,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 13:00,1.0,39.651321100000004,-105.04517079999998,S73451169,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 12:12,1.0,35.184582,-111.72730700000001,S73429863,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 11:53,1.0,33.802,-106.88,S73441750,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 11:47,1.0,30.591901399999998,-103.8913298,S73654782,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 10:58,1.0,33.9718571,-106.8633429,S73426008,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 10:30,1.0,35.924242,-112.0871324,S73435184,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 10:16,1.0,37.769824299999996,-111.6094625,S73419638,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 09:58,1.0,35.219766799999995,-106.6315091,S73589289,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 09:35,1.0,37.1999797,-107.81192779999999,S73433804,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 09:15,1.0,31.9080939,-105.1784169,S73459457,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 08:45,1.0,35.1817622,-111.67564990000001,S73487647,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 08:11,1.0,38.639743599999996,-109.38990349999999,S73420260,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 07:49,1.0,32.2295869,-106.79991229999999,S73429384,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 07:36,1.0,32.622568,-109.823525,S73420141,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 07:30,1.0,35.20227020000001,-111.65740009999999,S73574764,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 07:21,1.0,32.920947,-107.566598,S73417928,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 05:50,1.0,31.5313995,-110.38050929999999,S73428307,1,2020,9,10,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 16:00,1.0,35.131023299999995,-106.4841378,S73394273,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 15:35,1.0,39.9921819,-105.11538840000001,S73394333,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 14:10,1.0,35.84322279999999,-105.9846355,S73394135,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 13:12,1.0,35.1364641,-106.4920479,S73387748,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 10:50,1.0,39.0486144,-108.6438502,S73384508,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 08:51,1.0,40.562844,-105.08756100000001,S73378333,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 08:30,1.0,40.468711799999994,-112.0973069,S73396857,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 08:19,1.0,38.24767,-122.907059,S73385102,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 08:07,1.0,36.975842,-105.531428,S73377455,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 08:00,1.0,40.157124200000005,-111.64210890000001,S73387382,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 07:46,1.0,35.1042061,-106.61955259999998,S73379226,1,2020,9,9,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 19:30,1.0,42.513521600000004,-113.5737527,S73365612,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 18:59,1.0,39.602018,-105.0820398,S73364747,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 17:59,1.0,38.247748,-122.90715,S73368304,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 17:59,1.0,43.6255653,-116.75288490000001,S73367234,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 14:55,1.0,45.260191299999995,-111.3055382,S73357313,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 13:55,1.0,39.6128804,-105.0526605,S73354197,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 12:16,1.0,38.0148365,-108.0501831,S73352348,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 11:40,1.0,40.287554,-105.348774,S73354563,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 11:31,1.0,39.61951,-104.860951,S73351160,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 11:15,1.0,40.650452,-111.8534642,S73396197,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 10:47,1.0,47.559150700000004,-120.68049280000001,S73349915,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 10:35,1.0,39.102598,-108.558128,S73346942,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 09:42,1.0,35.044512,-106.494459,S73350360,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 08:30,1.0,40.3138333,-111.71196950000001,S73342434,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 08:00,1.0,40.313688,-111.71194799999999,S73342396,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 07:30,1.0,29.5234423,-103.3577442,S73430468,1,2020,9,8,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 19:31,1.0,39.437178,-107.178653,S73343389,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 17:32,1.0,40.5647096,-105.10969879999999,S73327307,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 17:07,1.0,34.407757000000004,-110.043074,S73329500,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 16:45,1.0,43.266672,-118.84331200000001,S73328602,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 15:46,1.0,38.847343200000005,-104.8811263,S73323824,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 11:52,2.0,31.769906,-109.3156,S73319537,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 11:40,1.0,38.029858399999995,-122.5769998,S73329623,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 10:30,2.0,39.840692,-105.1029455,S73306833,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 10:30,1.0,46.573086700000005,-116.7019111,S73324815,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 10:20,1.0,39.823798100000005,-105.09942050000001,S73310801,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 09:54,1.0,39.70684,-104.963824,S73492835,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 08:42,1.0,35.761766200000004,-105.934601,S73305234,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 08:38,1.0,32.267648,-107.720432,S73305818,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 08:27,1.0,40.524241700000005,-105.11946200000001,S73299895,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 08:13,1.0,35.2084325,-106.60512649999998,S73317447,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 07:54,2.0,40.9234737,-112.1680972,S73312014,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 07:47,1.0,40.367608600000004,-109.35251090000001,S73322196,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 07:12,2.0,35.8591521,-105.99405300000001,S73298082,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 07:03,1.0,40.1348086,-105.18889250000001,S73302007,1,2020,9,7,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 19:16,1.0,39.766203000000004,-104.890373,S73286024,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 17:57,3.0,31.7756392,-109.31292409999999,S73750202,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 16:20,1.0,43.7446314,-116.4983354,S73286352,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 15:52,2.0,31.772510999999998,-109.313847,S73319147,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 13:41,1.0,34.404284999999994,-111.44811000000001,S73274615,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 13:30,1.0,33.882251000000004,-109.1566813,S73277117,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 13:16,2.0,31.999469,-109.27145300000001,S73277735,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 11:33,1.0,30.596408,-103.934759,S73275277,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 10:27,1.0,37.280711700000005,-107.8743696,S73260785,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 10:17,1.0,30.621658,-103.982066,S73275230,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 10:16,1.0,35.5542428,-105.38824620000001,S73261285,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 10:16,1.0,35.5542428,-105.38824620000001,S73261286,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 09:27,1.0,40.562791,-105.087678,S73257120,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 09:05,1.0,41.3238575,-105.54213519999999,S73294395,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 09:02,2.0,35.3948964,-105.94353149999999,S73271863,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 09:00,1.0,40.7594805,-111.5470648,S73265175,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 08:28,1.0,35.187012,-106.652002,S73269824,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 08:25,1.0,35.0853956,-106.29348929999999,S73257512,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 08:11,1.0,39.6402646,-104.8538589,S73261188,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 08:01,1.0,37.859540100000004,-111.4158726,S73287832,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 08:00,1.0,34.7033249,-106.770482,S73264426,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 08:00,1.0,35.245615,-101.916822,S73287351,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 07:58,1.0,39.7614012,-104.8781662,S73255433,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 07:53,1.0,35.725972,-106.03800600000001,S73256213,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 07:30,1.0,32.709825699999996,-108.3020639,S73361224,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 07:30,1.0,39.665412200000006,-120.4402936,S73317900,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 07:15,1.0,46.495611100000005,-111.9674722,S73256341,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 07:15,1.0,33.5612086,-101.9061756,S73300220,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 07:05,2.0,35.693756799999996,-105.98716740000002,S73254967,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 06:58,1.0,31.837473,-106.582172,S73262476,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 06:50,1.0,40.569579600000004,-107.5048639,S73285727,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 06:30,2.0,31.6837898,-110.3886416,S73284144,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-06 06:30,1.0,39.0337528,-104.82124329999999,S73276676,1,2020,9,6,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 17:47,1.0,35.885464500000005,-106.2917751,S73233849,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 16:15,1.0,31.771271999999996,-109.314609,S73238088,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 15:45,2.0,34.9009987,-107.8576864,S73239540,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 14:37,1.0,37.402838700000004,-107.6584697,S73232640,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 14:08,1.0,41.3562831,-106.2942496,S73238497,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 13:24,1.0,34.1341239,-108.49239569999999,S73238975,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 13:19,2.0,37.301902,-107.871821,S73225672,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 11:20,1.0,34.953748100000006,-111.4820705,S73221075,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 10:47,1.0,32.341165000000004,-106.57463700000001,S73235651,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 10:37,1.0,34.988222,-106.61573,S73215221,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 10:32,1.0,31.912893,-109.136788,S73239293,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 10:13,1.0,31.8529153,-106.457269,S73251402,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 10:09,1.0,40.6710086,-111.78312290000001,S73239317,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 09:48,1.0,43.555912,-116.344282,S73212676,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 09:45,1.0,32.778521999999995,-105.771133,S73269574,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 09:10,1.0,39.55365,-107.56737199999999,S73210721,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 09:00,1.0,35.8004323,-106.215185,S73212389,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 08:25,2.0,31.789333000000003,-106.457718,S73253947,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 08:22,1.0,35.748038,-105.655477,S73226485,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 08:18,1.0,29.719161,-99.781596,S73739754,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 08:18,1.0,35.1376686,-106.6874814,S73215904,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 08:04,1.0,39.620400200000006,-104.8289895,S73208554,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 08:00,1.0,37.225032299999995,-107.86657140000001,S73222934,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 08:00,3.0,39.289401399999996,-120.9663274,S73261011,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 07:50,1.0,46.7268999,-116.96814979999999,S73211603,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 07:19,1.0,43.605233,-116.6956723,S73313520,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 07:16,1.0,39.7559995,-104.8790717,S73210945,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 07:05,1.0,40.1317067,-105.1197195,S73224812,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 06:57,1.0,34.0144713,-108.11903810000001,S73237680,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 06:34,1.0,39.649550399999995,-105.1536655,S73208366,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 06:25,4.0,39.8218534,-105.14412759999999,S73204518,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 06:18,1.0,40.0382725,-105.55487649999999,S73226651,1,2020,9,5,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 20:01,1.0,33.147724,-105.85721940000002,S73193742,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 19:03,1.0,40.1483705,-105.1503831,S73192905,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 18:34,1.0,35.117067999999996,-106.502816,S73192628,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 18:30,1.0,40.9757064,-111.8767673,S73250644,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 18:11,1.0,45.618390000000005,-111.0687733,S73238514,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 18:07,1.0,40.4423333,-105.10328290000001,S73192149,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 16:30,1.0,40.0164405,-111.671176,S73795112,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 16:24,1.0,31.7759,-109.312976,S73277883,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 15:33,1.0,43.967116600000004,-112.260479,S73187874,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 15:30,1.0,38.7804813,-104.7954623,S73192419,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 12:43,1.0,43.605627500000004,-116.0600716,S73218440,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 11:32,1.0,39.9344672,-105.10342069999999,S73180788,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 11:00,1.0,35.3476419,-106.61340420000002,S73183460,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 10:18,1.0,39.864497,-105.216803,S73172754,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 09:52,1.0,37.276475,-118.973996,S73435112,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 09:45,1.0,43.670077299999996,-116.3078632,S73325279,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 09:40,1.0,35.001917,-106.619699,S73173654,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 09:16,1.0,45.82545089999999,-111.6445956,S73184599,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 08:27,1.0,38.8169525,-104.7989058,S73175197,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 08:08,1.0,31.0382368,-104.8535173,S73167252,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 07:30,1.0,40.5308037,-105.235672,S73270345,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 07:12,1.0,32.369782199999996,-106.55726340000001,S73180297,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 07:02,1.0,40.1829554,-105.14939009999999,S73381429,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 06:15,2.0,38.6187096,-104.6835098,S73178689,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04,1.0,31.904193499999998,-109.1560364,S73422577,1,2020,9,4,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 19:15,1.0,40.1858385,-105.08105139999999,S73154857,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 18:30,1.0,35.278863799999996,-106.6055775,S73158717,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 16:50,1.0,37.4179155,-107.82950159999999,S73151370,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 16:00,1.0,32.373100300000004,-110.69129939999999,S73155737,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 15:50,1.0,34.601548,-105.19703500000001,S73148987,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 15:27,1.0,35.3050644,-106.47915379999999,S73171472,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 13:50,1.0,38.859806400000004,-104.8711015,S73143834,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 13:36,1.0,30.282319,-103.598563,S73143172,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 11:00,1.0,39.1102283,-107.2661311,S73224721,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 09:59,1.0,37.285418,-107.87243000000001,S73135768,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 09:48,1.0,40.5875,-105.11222,S73136324,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 09:31,1.0,45.460759,-121.8440866,S73398762,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 09:13,1.0,30.565385,-103.8843349,S73132167,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 09:00,1.0,35.821065999999995,-106.20600900000001,S73182314,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 08:55,1.0,43.7127895,-116.31831770000001,S73132377,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 08:26,1.0,39.5233557,-105.0806773,S73141376,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 06:30,1.0,39.58293629999999,-104.8924828,S73151923,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 06:26,1.0,38.387144,-117.433158,S73143902,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 06:20,1.0,31.898163699999998,-109.115932,S73233138,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-03 05:35,1.0,33.805288,-109.318983,S73169318,1,2020,9,3,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-02 19:54,2.0,44.151143,-115.31129840000001,S73160043,1,2020,9,2,Trochilidae,No
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-10-02 09:23,1.0,29.5772196,-95.67773220000001,S74319960,2,2020,10,2,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-10-02 07:15,1.0,29.5772196,-95.67773220000001,S74312812,2,2020,10,2,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-10-01 16:31,1.0,30.618894,-103.982375,S74293801,2,2020,10,1,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-10-01 16:20,1.0,29.5772196,-95.67773220000001,S74298334,2,2020,10,1,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-10-01 16:20,1.0,29.5772196,-95.67773220000001,S74300670,2,2020,10,1,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 16:15,1.0,29.5772196,-95.67773220000001,S74104301,2,2020,9,26,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 15:36,1.0,29.5772196,-95.67773220000001,S74111214,2,2020,9,26,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 13:10,1.0,29.5772196,-95.67773220000001,S74093310,2,2020,9,26,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 09:30,1.0,29.5772196,-95.67773220000001,S74074720,2,2020,9,26,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-26 07:15,1.0,29.5772196,-95.67773220000001,S74072172,2,2020,9,26,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-25 15:28,1.0,29.5772196,-95.67773220000001,S74057626,2,2020,9,25,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 16:40,1.0,29.5772196,-95.67773220000001,S74048410,2,2020,9,24,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 16:03,1.0,29.5772196,-95.67773220000001,S74057612,2,2020,9,24,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 09:30,1.0,29.575865999999998,-95.676644,S73999737,2,2020,9,24,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 08:53,1.0,29.5772196,-95.67773220000001,S74009986,2,2020,9,24,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-24 07:34,1.0,29.5772196,-95.67773220000001,S73992576,2,2020,9,24,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 16:45,1.0,29.5772196,-95.67773220000001,S73975378,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 15:54,1.0,29.5772196,-95.67773220000001,S73974261,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 15:42,1.0,29.5772196,-95.67773220000001,S73984661,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 15:01,1.0,29.5772196,-95.67773220000001,S73990276,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 14:15,1.0,29.5772196,-95.67773220000001,S73978127,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 12:44,1.0,29.5772196,-95.67773220000001,S73965814,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 11:20,1.0,29.5772196,-95.67773220000001,S73969037,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 09:30,1.0,29.5772196,-95.67773220000001,S73977778,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 08:30,1.0,29.5772196,-95.67773220000001,S73967200,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-23 08:17,1.0,29.5772196,-95.67773220000001,S73955393,2,2020,9,23,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 15:55,1.0,29.5772196,-95.67773220000001,S73952754,2,2020,9,22,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-22 07:05,1.0,29.5772196,-95.67773220000001,S73920721,2,2020,9,22,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 16:25,1.0,29.5772196,-95.67773220000001,S73902253,2,2020,9,21,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-21 08:05,1.0,29.5772196,-95.67773220000001,S73878467,2,2020,9,21,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-20 11:20,1.0,29.5772196,-95.67773220000001,S73871974,2,2020,9,20,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 15:35,1.0,29.5772196,-95.67773220000001,S73820080,2,2020,9,19,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-19 12:07,1.0,29.537625,-98.837767,S73834970,2,2020,9,19,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-18 07:47,1.0,32.2631911,-99.798527,S73733198,2,2020,9,18,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 17:16,1.0,32.2631911,-99.798527,S73718102,2,2020,9,17,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-17 17:16,1.0,32.2631911,-99.798527,S73718103,2,2020,9,17,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 07:45,1.0,31.992824,-102.118528,S73699126,2,2020,9,16,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-16 06:42,1.0,34.403023600000004,-103.0429709,S73665752,2,2020,9,16,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 18:15,1.0,32.2631911,-99.798527,S73650925,2,2020,9,15,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 18:15,1.0,32.2631911,-99.798527,S73650926,2,2020,9,15,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 10:15,1.0,31.986059700000002,-104.76916259999999,S73787846,2,2020,9,15,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 10:15,1.0,31.986059700000002,-104.76916259999999,S73791965,2,2020,9,15,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 10:15,1.0,31.986059700000002,-104.76916259999999,S73788380,2,2020,9,15,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 07:59,2.0,31.986059700000002,-104.76916259999999,S73648841,2,2020,9,15,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-15 07:30,1.0,31.992608399999998,-102.1185234,S73650526,2,2020,9,15,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-14 07:20,1.0,31.992399,-102.118572,S73613655,2,2020,9,14,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 10:00,1.0,30.2988285,-97.7133382,S73559707,2,2020,9,13,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-13 07:15,1.0,31.992797999999997,-102.11856800000001,S73613683,2,2020,9,13,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-12 07:14,1.0,30.3834554,-97.85171779999999,S73509386,2,2020,9,12,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 18:49,1.0,26.1616604,-97.7941339,S73476396,2,2020,9,11,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 09:00,1.0,26.1616604,-97.7941339,S73476421,2,2020,9,11,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-11 08:15,1.0,31.99255,-102.118531,S73544880,2,2020,9,11,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 15:50,1.0,26.161549,-97.794197,S73446324,2,2020,9,10,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 12:15,1.0,30.4394,-97.61998,S73426547,2,2020,9,10,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 11:33,1.0,26.161551,-97.79399599999999,S73440312,2,2020,9,10,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 11:33,1.0,26.161551,-97.79399599999999,S73424959,2,2020,9,10,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 09:13,1.0,26.161755,-97.794167,S73412439,2,2020,9,10,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 08:29,1.0,26.1616604,-97.7941339,S73440336,2,2020,9,10,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-10 07:23,1.0,26.1616604,-97.7941339,S73408198,2,2020,9,10,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 18:13,1.0,26.162734,-97.788622,S73396300,2,2020,9,9,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 17:00,1.0,31.412724,-100.492746,S73399764,2,2020,9,9,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 17:00,1.0,26.161350600000002,-97.7937052,S73401069,2,2020,9,9,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 08:00,1.0,26.1615854,-97.7942431,S73385980,2,2020,9,9,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-09 07:45,1.0,26.1616604,-97.7941339,S73398255,2,2020,9,9,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 14:40,1.0,30.296468199999996,-97.7097325,S73356402,2,2020,9,8,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 14:40,1.0,30.296468199999996,-97.7097325,S73356360,2,2020,9,8,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 11:50,1.0,26.161341,-97.7939051,S73362805,2,2020,9,8,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-08 08:30,1.0,26.1616604,-97.7941339,S73363717,2,2020,9,8,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 15:00,1.0,30.296468199999996,-97.7097325,S73321899,2,2020,9,7,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 14:50,1.0,30.2994691,-97.71254429999999,S73319563,2,2020,9,7,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 09:30,1.0,26.1616604,-97.7941339,S73329171,2,2020,9,7,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 09:30,1.0,26.1616604,-97.7941339,S73362663,2,2020,9,7,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-07 08:59,1.0,31.412724,-100.492746,S73300370,2,2020,9,7,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 14:09,1.0,30.297931,-97.711237,S73225014,2,2020,9,5,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 13:21,1.0,30.894154999999998,-102.878718,S73219442,2,2020,9,5,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-05 13:05,1.0,30.893549,-102.878588,S73278585,2,2020,9,5,Trochilidae,Yes
-calhum,Calliope Hummingbird,Selasphorus calliope,2020-09-04 15:18,1.0,32.0029655,-102.15916290000001,S73183421,2,2020,9,4,Trochilidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 20:19,1.0,27.0835658,-82.11170959999998,S92578720,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 19:54,1.0,27.8033571,-81.1988139,S92583633,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 19:35,4.0,28.37152,-81.55076600000001,S92576788,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 19:33,1.0,27.825660499999998,-81.21821170000001,S92583985,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 19:00,2.0,28.6398772,-81.3094394,S92581282,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 17:21,1.0,28.532692800000003,-81.3707113,S92585434,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 16:49,1.0,27.115523600000003,-80.2788916,S92582701,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 15:22,1.0,28.702816100000003,-81.2854654,S92564415,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 15:00,1.0,27.2841779,-82.4645682,S92578651,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 14:40,5.0,26.498644199999998,-80.2246141,S92564502,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 14:09,1.0,26.2169038,-81.8174797,S92580160,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 11:27,1.0,29.6704686,-81.49946369999999,S92558609,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 11:09,1.0,28.0922,-82.7067,S92558187,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 11:08,1.0,27.419384499999996,-82.55439399999999,S92548983,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 10:48,6.0,27.9426789,-81.20503659999999,S92554307,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 10:29,1.0,27.8398,-82.6705,S92549532,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 09:50,3.0,27.3948028,-82.4302429,S92559106,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 09:37,1.0,27.2567365,-82.493248,S92544292,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 09:33,1.0,28.5836,-81.3586,S92551194,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 09:31,2.0,26.486158399999997,-80.1607561,S92552971,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 09:28,1.0,28.0725,-82.3754,S92556559,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 09:15,1.0,27.385084000000003,-81.002682,S92542975,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 09:01,4.0,29.6151026,-82.3254061,S92549027,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 08:27,2.0,28.704017200000003,-81.6730338,S92557610,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 08:27,1.0,26.5052081,-80.1399958,S92543862,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 08:26,1.0,26.294125,-81.48604870000001,S92540306,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 07:55,4.0,28.8032791,-82.0169592,S92542528,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 07:53,1.0,27.788137300000002,-82.6414776,S92543652,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 07:50,4.0,25.776121,-80.2030056,S92561394,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 07:37,1.0,27.6871553,-80.3977385,S92540098,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 07:35,4.0,28.0620436,-81.88385009999999,S92551256,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 07:25,6.0,26.9880989,-81.0793407,S92582116,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 07:09,4.0,26.6496729,-81.68693359999999,S92539009,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:58,1.0,29.5587838,-82.3245401,S92558512,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:48,1.0,27.954033000000003,-81.7189479,S92539097,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:46,4.0,29.686897,-81.4758325,S92544535,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:39,1.0,28.6893446,-81.59953270000001,S92558021,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:34,5.0,26.969169800000003,-81.11840649999999,S92582120,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:19,7.0,26.729055,-80.86582750000001,S92578763,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:03,2.0,28.733504999999997,-81.7406674,S92558755,1,2021,7,31,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 19:59,1.0,28.5201151,-81.2311285,S92525538,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 17:25,2.0,27.2405033,-82.31481670000001,S92531338,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 15:55,3.0,26.8267833,-81.04758829999999,S92524968,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 15:14,1.0,26.0697361,-80.2770996,S92516252,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 14:02,1.0,26.409046999999997,-80.16798399999999,S92511324,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 12:05,1.0,27.593048200000002,-80.3967858,S92509587,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 11:18,1.0,28.577200599999998,-81.5865755,S92544638,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 10:20,1.0,26.0553344,-80.26134640000001,S92501624,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 10:13,1.0,28.575326300000004,-80.99668259999999,S92503276,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 09:33,1.0,28.669047600000003,-81.56128000000001,S92529258,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 08:38,1.0,26.071302300000003,-81.67703859999999,S92502491,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 08:27,1.0,27.249277000000003,-80.371925,S92540708,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 07:57,2.0,28.059177299999998,-82.34360490000002,S92498715,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 07:56,1.0,26.928268,-81.2550082,S92499782,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 07:50,5.0,28.09435,-82.709682,S92504027,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 07:22,2.0,27.3253186,-82.4336821,S92514071,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 07:00,8.0,27.608256,-81.2639125,S92514645,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 06:58,2.0,27.6087151,-81.19079920000001,S92574776,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 06:53,1.0,26.294,-81.486,S92496598,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 06:27,1.0,27.172589000000002,-80.396088,S92492727,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-30 06:25,2.0,27.9123525,-81.1302567,S92500177,1,2021,7,30,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 20:45,1.0,27.3452256,-82.46520720000001,S92577599,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 19:55,1.0,26.2949452,-81.4159482,S92482225,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 19:04,5.0,26.7813214,-81.7547172,S92482330,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 18:52,3.0,29.881803,-95.185903,S92485022,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 16:15,1.0,28.844565600000003,-81.9554168,S92475923,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 15:45,1.0,27.876358399999997,-82.8090332,S92482616,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 14:19,1.0,26.684909,-80.39089,S92518904,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 13:30,1.0,26.492813899999998,-80.21688940000001,S92476134,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 10:29,3.0,28.803863899999996,-81.87737779999999,S92462695,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 09:48,1.0,27.608460600000004,-80.47727309999999,S92459855,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 09:33,1.0,27.234490700000002,-82.3113895,S92466936,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 08:40,1.0,26.726145000000002,-81.652422,S92501137,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 08:09,2.0,26.2768695,-80.214057,S92455504,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 08:00,5.0,29.070806,-81.413014,S92484149,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 07:31,2.0,28.060513,-82.03058840000001,S92455179,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 07:24,1.0,27.031513699999998,-81.066569,S92582158,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 07:22,1.0,28.040016100000003,-82.6979113,S92453095,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 07:16,3.0,26.314016600000002,-81.6349089,S92457300,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-29 06:35,1.0,28.042420299999996,-81.2065585,S92456739,1,2021,7,29,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 20:30,2.0,27.04598,-82.39989,S92441463,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 19:41,1.0,27.70151,-82.359709,S92441017,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 18:13,4.0,27.910936100000004,-81.1496745,S92437749,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 17:30,10.0,26.6012,-80.0828,S92475789,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 17:13,1.0,28.094794,-82.706551,S92434910,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 16:49,1.0,26.6997339,-80.23361329999999,S92431985,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 16:41,1.0,28.3713614,-81.5490365,S92443446,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 14:44,1.0,28.796178,-81.736195,S92426935,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 10:04,1.0,26.571620899999996,-81.8258929,S92419531,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 09:24,1.0,27.908878700000002,-81.1642027,S92413827,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 08:59,1.0,33.4808517,-84.30019859999999,S92413687,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 08:55,1.0,27.6630729,-82.4998085,S92424432,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 08:00,1.0,26.505246500000002,-80.1397812,S92559528,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 07:00,2.0,26.8405153,-80.1664022,S92419530,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-28 06:53,1.0,27.040271399999998,-81.6780495,S92435654,1,2021,7,28,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 20:04,3.0,28.044069,-81.9518495,S92397571,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 19:47,1.0,28.290989,-81.397614,S92395581,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 17:59,1.0,28.228577,-80.76046590000001,S92399506,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 09:50,1.0,26.1156777,-80.23916240000001,S92383256,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 09:45,3.0,30.39726,-90.42913,S92374486,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 08:32,3.0,26.1469438,-80.62913420000001,S92368663,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 08:30,1.0,28.097613,-81.73274520000001,S92398018,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 08:24,1.0,27.724806899999997,-82.6501069,S92373877,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 08:14,2.0,27.443315899999998,-81.28646850000001,S92372649,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 07:29,3.0,27.272623,-80.427361,S92363873,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-27 07:15,2.0,27.9808903,-82.69885740000001,S92367486,1,2021,7,27,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 15:59,4.0,27.9923609,-81.4062645,S92347380,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 14:51,2.0,30.474417,-84.237235,S92337200,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 14:07,1.0,27.573150599999998,-80.46875949999999,S92338076,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 12:06,1.0,28.371344,-81.51448,S92330708,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 10:32,1.0,28.225495399999996,-80.7144928,S92392388,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 08:46,1.0,28.3179822,-81.5405166,S92323359,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 08:45,1.0,28.376386800000002,-81.52295500000001,S92321065,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 08:13,1.0,27.9093,-81.2689,S92323655,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 08:01,1.0,26.375481,-81.60389599999999,S92327408,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-26 07:01,1.0,28.1271627,-81.47075770000001,S92317427,1,2021,7,26,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 19:17,2.0,26.826533299999998,-81.0767608,S92304219,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 18:34,1.0,26.449049100000003,-81.9471502,S92305701,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 18:10,2.0,27.884882,-82.251458,S92299148,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 15:39,1.0,27.3277717,-80.4516556,S92291945,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 15:33,2.0,27.254406,-80.48105,S92299718,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 14:21,4.0,29.1092685,-81.3752445,S92286979,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 13:45,1.0,27.815778,-82.6926434,S92293882,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 13:07,1.0,30.374022999999998,-81.7898762,S92284106,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 11:20,1.0,28.699689000000003,-81.413802,S92275909,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 10:38,2.0,28.1877141,-82.6102781,S92274390,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 09:45,8.0,26.5019164,-81.1724854,S92455681,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 08:10,1.0,26.375442,-81.60402059999998,S92275218,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 08:06,1.0,26.631443,-80.23322940000001,S92267476,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 07:54,1.0,26.3133434,-80.9832287,S92455675,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 07:47,1.0,27.864422100000002,-82.2279855,S92309304,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 07:44,2.0,28.04403,-81.2239629,S92368509,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 07:40,2.0,25.7646485,-80.8198929,S92269534,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 07:09,3.0,26.8178063,-80.11705479999999,S92266386,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 07:06,1.0,26.064472600000002,-80.37835190000001,S92266741,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25 06:50,2.0,26.537474699999997,-81.85458179999999,S92265352,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-25,1.0,27.453712899999996,-81.3137412,S92420818,1,2021,7,25,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 20:20,2.0,29.606645,-82.303383,S92251441,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 18:28,2.0,27.885123999999998,-82.251976,S92246212,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 18:05,1.0,28.669428200000002,-81.5832281,S92245344,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 12:46,3.0,29.6068756,-82.3031116,S92230780,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 12:32,1.0,29.965378899999997,-90.3415312,S92242504,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 12:15,1.0,28.4103887,-81.57160879999999,S92239220,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 11:39,1.0,27.4222797,-82.43606319999999,S92225839,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 10:30,1.0,28.625749900000002,-81.32046820000001,S92226717,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 10:21,1.0,27.9465497,-82.7934623,S92233252,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 09:27,4.0,32.971269,-80.040436,S92224149,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 09:00,3.0,27.823030300000003,-80.70786140000001,S92422903,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 08:39,1.0,29.5491092,-82.292372,S92218204,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 08:31,3.0,28.3593428,-81.5909958,S92248606,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 08:17,1.0,26.6085272,-81.91796640000001,S92221088,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 08:15,4.0,26.484543900000002,-80.6574823,S92233031,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 07:50,1.0,26.884808399999997,-82.2877679,S92383340,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 07:45,1.0,27.872086199999995,-82.6715183,S92260983,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 07:30,3.0,27.7424626,-82.6626306,S92244471,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 07:26,1.0,28.368821399999998,-81.5570068,S92216914,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 07:26,1.0,26.1769932,-81.7844796,S92213398,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 07:00,1.0,33.4841686,-84.2789641,S92385158,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-24 07:00,1.0,28.691290000000002,-81.40348399999999,S92232115,1,2021,7,24,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 20:06,3.0,27.012577,-82.03625600000001,S92202072,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 18:30,1.0,27.3444035,-82.4482457,S92236961,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 15:32,1.0,27.245431,-82.306427,S92249283,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 10:55,1.0,28.695783000000002,-81.411192,S92210393,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 10:11,7.0,32.957262,-80.018992,S92174351,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 09:59,1.0,26.294139899999998,-81.48595440000001,S92177524,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 09:48,2.0,28.3994038,-80.8301926,S92174059,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 09:30,1.0,27.913417,-82.77490350000001,S92208955,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 09:29,1.0,28.229994899999998,-80.81105229999999,S92176883,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 09:21,1.0,27.776199,-80.496848,S92171489,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 08:55,3.0,27.8452331,-82.7763927,S92226601,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 08:55,1.0,29.617994300000003,-82.25116729999999,S92171048,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 08:46,2.0,28.3312609,-81.27785329999999,S92196474,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 08:15,2.0,27.883224900000002,-82.8083432,S92196559,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 07:51,2.0,27.91258,-82.774232,S92173041,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 07:32,1.0,28.6511002,-82.2767521,S92172706,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 07:30,1.0,26.0758749,-81.71512840000001,S92189570,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-23 07:11,1.0,28.1307501,-81.4790642,S92168672,1,2021,7,23,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 18:30,1.0,26.8165642,-80.0868773,S92424409,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 14:55,1.0,27.301524,-82.254013,S92155944,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 10:22,1.0,28.209889,-82.628026,S92129898,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 10:00,2.0,26.6293528,-80.3059387,S92139145,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 09:21,1.0,28.8451812,-81.9517422,S92128275,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 08:15,2.0,28.1439001,-82.6609078,S92245495,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 08:13,1.0,26.463077000000002,-81.67361899999999,S92169647,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 08:12,1.0,28.2064531,-82.6127489,S92126028,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 07:46,4.0,28.4270119,-81.434108,S92134922,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 07:07,5.0,27.396644000000002,-81.107366,S92158282,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 06:45,4.0,26.8582653,-81.9401121,S92134720,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-22 06:30,2.0,26.295702600000002,-81.487646,S92126984,1,2021,7,22,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 19:42,1.0,28.3751271,-81.53339179999999,S92110013,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 18:10,1.0,30.474568599999998,-84.25295859999999,S92106254,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 17:44,4.0,27.872863,-81.0518074,S92105791,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 17:00,4.0,32.971243,-80.040405,S92104461,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 16:30,1.0,30.365941999999997,-84.3001404,S92101734,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 15:52,1.0,28.5441162,-81.37315749999999,S92101715,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 15:23,1.0,28.425853999999998,-81.43352800000001,S92100360,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 15:18,1.0,28.983416,-81.230209,S92101175,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 15:13,1.0,26.113198,-80.229238,S92098259,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 13:00,1.0,27.942679,-81.205037,S92161795,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 09:09,2.0,27.365057,-82.46155300000001,S92082137,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 08:27,5.0,28.466521999999998,-81.5089202,S92097584,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 08:17,1.0,26.120722,-80.245262,S92086657,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 07:42,1.0,27.847105,-82.65338,S92093761,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 07:20,1.0,28.3492355,-81.3576507,S92078664,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 07:00,2.0,29.985055,-82.7624606,S92105069,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-21 06:10,2.0,27.995917300000002,-81.8652327,S92078612,1,2021,7,21,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 20:07,1.0,26.0930267,-80.27106309999999,S92578602,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 18:11,2.0,26.463085999999997,-81.673597,S92080764,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 16:31,1.0,27.236187599999997,-80.51166590000001,S92061069,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 15:38,8.0,28.902790000000003,-81.79876999999999,S92060139,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 14:46,2.0,28.9027946,-81.8170195,S92053045,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 12:05,2.0,28.2590675,-81.2834859,S92047064,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 10:57,1.0,27.249218,-80.371866,S92071997,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 10:37,1.0,28.2782779,-81.2518787,S92042282,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 10:00,2.0,27.337430600000005,-82.51037149999999,S92047642,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-20 06:35,1.0,28.773774,-81.373936,S92077481,1,2021,7,20,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-19 15:48,5.0,28.421976,-81.434975,S92008677,1,2021,7,19,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-19 15:09,2.0,27.992634000000002,-81.177188,S92008300,1,2021,7,19,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-19 13:10,1.0,45.163044799999994,-92.9616647,S92343421,1,2021,7,19,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-19 12:13,1.0,28.608469,-81.263903,S92019485,1,2021,7,19,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-19 07:35,1.0,27.613143400000002,-80.50523759999999,S92013528,1,2021,7,19,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-19 06:13,1.0,27.8326657,-81.14493370000001,S91991968,1,2021,7,19,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 18:51,1.0,28.911094300000002,-81.8013668,S91963743,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 18:45,3.0,26.615541200000003,-80.08548259999999,S91962430,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 15:56,1.0,27.177761100000005,-80.3189474,S91959134,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 15:40,1.0,26.463124,-81.673524,S92099498,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 12:42,1.0,27.309958299999998,-82.25935890000001,S91941787,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 10:45,2.0,28.370784999999998,-81.2667918,S92257061,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 10:05,2.0,30.474189000000003,-84.237998,S91931893,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 08:21,3.0,27.2724923,-82.28027829999999,S91938505,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 07:57,1.0,28.2521498,-81.38255600000001,S91924215,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 07:30,1.0,27.6113527,-80.4397901,S91924683,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 07:29,5.0,26.294745000000002,-81.48530600000001,S91923741,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 07:19,3.0,28.832048999999998,-81.669791,S91922492,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 07:13,2.0,28.6439145,-80.71659559999999,S91922416,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-18 06:35,1.0,26.9057338,-81.99132759999999,S91977188,1,2021,7,18,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 19:38,1.0,26.845497499999997,-81.968076,S91906214,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 18:50,1.0,28.921670000000002,-81.9648247,S91903968,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 18:18,2.0,27.1213522,-82.2207355,S91903086,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 17:45,2.0,26.176379999999998,-81.784482,S91900809,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 16:19,1.0,27.584538399999996,-80.4668523,S91898316,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 12:34,1.0,26.878637800000003,-80.11588979999999,S91885110,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 11:21,1.0,27.930947999999997,-82.474313,S91879272,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 10:13,1.0,27.338189,-82.454947,S91874660,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 10:00,1.0,26.2367981,-81.7607689,S91889139,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 08:36,1.0,26.463038,-81.673755,S91885919,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 08:07,1.0,26.0637,-80.3664,S92147329,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 08:00,1.0,29.873499699999996,-95.15703570000001,S91908689,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 07:37,3.0,28.083897999999998,-82.32820600000001,S91867224,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 07:10,2.0,28.538348100000004,-82.3242474,S91874306,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 07:02,2.0,26.1736762,-80.8551157,S91914864,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 06:37,1.0,26.117621,-81.689687,S91868905,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-17 06:36,1.0,28.173927399999997,-82.480073,S91865540,1,2021,7,17,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-16 18:24,1.0,26.9198217,-82.052038,S91849237,1,2021,7,16,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-16 10:07,1.0,27.9767107,-82.72663359999999,S91828332,1,2021,7,16,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-16 08:59,3.0,26.463128,-81.673524,S91855068,1,2021,7,16,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-16 08:41,1.0,28.487599300000003,-81.3655282,S91823630,1,2021,7,16,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-16 08:02,1.0,28.236112,-80.68046600000001,S91828011,1,2021,7,16,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:22,1.0,27.173414899999997,-82.466383,S91825711,1,2021,7,16,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 17:48,1.0,26.463096000000004,-81.673801,S91823831,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 16:44,1.0,28.4836344,-81.51042220000001,S91811613,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 14:36,2.0,27.383933000000003,-81.110522,S91796484,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 13:30,1.0,28.139172600000002,-81.3619781,S91806873,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 12:05,1.0,30.403682399999997,-84.3079448,S91789273,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 11:30,1.0,27.9312364,-81.15222929999999,S91818814,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 10:17,2.0,27.8891565,-80.746336,S91810343,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 09:35,3.0,27.845234100000003,-80.7252359,S91809208,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 08:57,1.0,30.171138800000005,-82.61542800000001,S91780688,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 08:20,2.0,26.4100675,-81.80857579999999,S91779391,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 07:51,1.0,28.1311969,-82.7378654,S91790243,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 07:48,1.0,27.776113,-80.49676099999999,S91784471,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-15 06:30,1.0,28.3987522,-81.4429379,S91777210,1,2021,7,15,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 16:11,1.0,27.0362957,-80.1662385,S91803881,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 14:17,1.0,27.843738000000002,-82.24079300000001,S91770282,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 12:56,1.0,42.4577874,-88.18931579999999,S91751034,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 11:43,1.0,29.212840000000003,-81.339528,S91991552,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 11:17,1.0,42.4623,-88.1886,S91747042,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 10:00,2.0,28.5432114,-80.860126,S91757617,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 09:42,1.0,27.676505100000004,-80.3933345,S91738138,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 09:32,1.0,27.969716,-81.18843199999999,S91760960,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 09:30,1.0,27.32409,-82.434425,S92063521,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 08:43,1.0,26.5271649,-81.8765643,S91738572,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 08:30,1.0,27.6965345,-80.4365653,S91810881,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 07:23,1.0,29.6364,-82.2382,S91732011,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-14 06:40,2.0,29.715194,-81.500838,S91730358,1,2021,7,14,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 19:17,1.0,26.405685,-81.809989,S91731885,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 16:57,1.0,28.1749093,-82.4546671,S91721559,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 16:35,1.0,33.65301229999999,-79.0548277,S91710197,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 14:47,1.0,28.9840034,-81.2301268,S91707679,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 12:53,2.0,26.462903000000004,-81.673654,S91720048,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 11:51,2.0,28.429689,-81.482864,S91700144,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 10:52,1.0,28.244190000000003,-82.71921999999999,S91695403,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 09:45,1.0,28.802957,-81.872026,S92019720,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 09:15,1.0,42.4470887,-88.1812806,S91704934,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 09:11,1.0,42.446527,-88.181893,S91696581,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 08:27,2.0,27.98938,-81.178721,S91697770,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 07:18,1.0,27.501686199999998,-82.48708959999999,S91689966,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 06:54,1.0,28.942476,-81.34181720000001,S91709355,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 06:34,1.0,26.666872700000003,-80.45746209999999,S91687126,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-13 06:05,1.0,29.720413,-81.94462299999999,S91738137,1,2021,7,13,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 20:04,1.0,27.959566499999998,-82.7829212,S91674718,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 19:40,3.0,26.098675,-80.270325,S91861396,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 17:47,1.0,26.933394399999997,-80.17516359999999,S91758260,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 15:22,1.0,26.462952,-81.67365699999999,S91673926,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 15:12,1.0,42.4549749,-88.1733153,S91674736,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 14:30,1.0,26.995414,-81.0675573,S91685999,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 14:20,1.0,42.446501,-88.181813,S91664979,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 09:09,6.0,32.957264,-80.018683,S91644674,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 08:28,3.0,27.3049011,-80.8290339,S91644547,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 07:56,1.0,28.349355900000003,-81.35647409999999,S91641638,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 07:00,1.0,26.837550699999998,-80.14251709999999,S91643112,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-12 06:47,1.0,26.573469,-81.84060799999999,S91642284,1,2021,7,12,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 17:46,3.0,28.737710399999997,-81.2400126,S91626954,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 16:24,1.0,27.776132,-80.496778,S91616048,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 13:31,1.0,42.4415744,-88.1619787,S91617534,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 13:10,1.0,26.463057,-81.673804,S91628536,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 10:34,1.0,26.375455,-81.60449,S91607878,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 10:26,3.0,26.816629,-80.086924,S91592386,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 10:05,1.0,27.838557,-82.208341,S91594300,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 09:04,2.0,26.010925,-81.622139,S91586186,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 08:48,6.0,28.0375919,-81.9539738,S91588503,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 08:38,1.0,27.680760999999997,-80.828108,S91601585,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 08:28,4.0,28.089284000000003,-82.701945,S91619980,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 08:13,1.0,26.1073443,-80.2566402,S91589539,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 07:45,1.0,27.129195199999998,-82.3337746,S91598157,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 06:55,2.0,27.263435700000002,-80.28771040000001,S91588692,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 06:30,1.0,28.7815,-81.3692,S91581722,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 06:27,3.0,27.318339,-82.437342,S91608151,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-11 06:26,1.0,25.6923384,-80.4361171,S91581034,1,2021,7,11,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 20:39,1.0,27.6786636,-81.2943649,S91597956,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 18:19,1.0,27.965471,-82.52223199999999,S91563169,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 17:00,1.0,28.4993957,-81.42413020000001,S91559122,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 16:05,1.0,26.828833000000003,-80.104117,S91554354,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 15:24,1.0,27.776315999999998,-80.49693,S91555963,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 14:15,3.0,27.8526028,-81.3664616,S91580612,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 13:52,1.0,28.255021999999997,-80.703228,S91549981,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 10:33,1.0,26.728485,-80.068694,S91533267,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 10:16,1.0,26.81649,-80.08743,S91531736,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 10:12,1.0,27.685446399999996,-80.4073988,S91532015,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 10:06,1.0,27.302061,-82.254776,S91530820,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 09:26,1.0,27.793781,-81.15965600000001,S91528035,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 09:00,1.0,27.6788275,-80.3980395,S91541498,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 08:45,3.0,26.816587,-80.087559,S91529759,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 08:07,1.0,27.908485,-81.841313,S91525675,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:15,1.0,27.334,-82.4433,S91569861,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:06,1.0,28.674323100000002,-81.3268733,S91529193,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:00,1.0,28.089221000000002,-82.701502,S91574532,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 06:52,2.0,29.366852,-95.622499,S91533644,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 06:46,1.0,28.6433213,-81.3952053,S91534618,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 06:19,1.0,26.4794212,-80.6566988,S91522061,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-10 06:17,1.0,27.318315000000002,-82.437202,S91538597,1,2021,7,10,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 18:44,1.0,27.274209000000003,-80.439135,S91564624,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 16:57,2.0,26.463025,-81.673693,S91513153,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 11:22,1.0,27.923218900000002,-82.16976559999999,S91497762,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 10:49,1.0,26.019833,-81.631183,S91482382,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 09:42,1.0,28.800228000000004,-81.726244,S91680519,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 09:25,1.0,28.421073,-81.426135,S91478422,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 08:40,1.0,26.773047,-80.1249647,S91491075,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 08:39,2.0,26.528140000000004,-81.876026,S91481713,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 08:00,2.0,26.113449,-80.24087,S91518459,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 07:40,1.0,28.218424199999998,-82.6351261,S91481757,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 07:40,1.0,27.363230199999997,-82.4475861,S91487256,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-09 06:15,1.0,26.499362400000003,-80.9473515,S91507585,1,2021,7,9,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 19:21,1.0,28.658714,-81.18745009999999,S91460406,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 18:45,1.0,28.348130800000003,-81.4000249,S91458956,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 11:19,1.0,26.462943,-81.673629,S91449115,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 09:55,1.0,27.6631045,-80.6442779,S91438901,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 09:10,1.0,28.6743702,-81.6920882,S91441926,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 08:16,3.0,26.697796999999998,-80.1661,S91431612,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 08:02,1.0,27.776166999999997,-80.496821,S91433667,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 07:36,2.0,26.138269,-80.334412,S91461268,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 06:52,1.0,28.2610772,-81.2955704,S91434634,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-08 06:16,2.0,27.154541100000003,-81.19777049999999,S91858611,1,2021,7,8,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-07 17:30,1.0,28.748396600000003,-81.7733002,S91416066,1,2021,7,7,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-07 16:55,1.0,29.4274,-82.2076,S91534730,1,2021,7,7,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-07 11:54,1.0,26.462952,-81.673633,S91419558,1,2021,7,7,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-07 10:36,2.0,28.81237,-81.26006,S91393195,1,2021,7,7,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-07 09:56,1.0,27.419200099999998,-82.4490747,S91389847,1,2021,7,7,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-07 07:35,7.0,32.9573531,-80.0188213,S91388934,1,2021,7,7,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-07 07:27,3.0,26.9828005,-81.09446559999999,S91444474,1,2021,7,7,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-06 16:30,3.0,28.8468163,-81.95191379999999,S91364637,1,2021,7,6,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-06 16:30,2.0,27.300707199999998,-80.2798801,S91387708,1,2021,7,6,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-06 12:25,4.0,26.761927000000004,-80.923144,S91352727,1,2021,7,6,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-06 11:06,1.0,28.428897499999998,-81.3048541,S91351179,1,2021,7,6,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-06 08:53,1.0,28.807752899999997,-81.13169429999999,S91343985,1,2021,7,6,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-06 08:19,1.0,28.021030100000004,-82.38775940000001,S91341947,1,2021,7,6,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-06 07:30,1.0,26.504441399999997,-81.9173873,S91354798,1,2021,7,6,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 19:45,1.0,28.5208734,-81.23043840000001,S91326773,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 15:57,1.0,27.519506,-82.547258,S91313966,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 13:33,1.0,28.1966675,-81.2950904,S91312191,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 12:01,1.0,29.6099701,-82.3082158,S91302056,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 10:44,2.0,26.808048100000004,-80.169875,S91291990,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 10:07,1.0,28.983029499999997,-81.2279804,S91342182,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 09:43,1.0,29.000040999999996,-81.965048,S91297352,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 09:30,4.0,27.1955353,-80.83120109999999,S91284993,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 08:46,1.0,30.471896100000002,-84.2599208,S91281240,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 08:30,2.0,28.003798699999997,-81.6824913,S91446322,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-05 07:28,1.0,28.066399,-82.355827,S91649375,1,2021,7,5,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 20:39,3.0,28.258981,-81.28184300000001,S91267700,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 19:40,4.0,28.4657352,-81.5138623,S91331239,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 17:44,2.0,28.842204,-82.020597,S91257543,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 17:30,1.0,28.968949900000002,-81.3544464,S91388430,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 17:27,1.0,25.760766,-80.481689,S91254687,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 16:57,1.0,25.693986499999998,-80.3280576,S91270900,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 15:59,1.0,27.776183000000003,-80.49682,S91249361,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 15:46,1.0,26.9111,-82.267698,S91248459,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 14:20,1.0,27.870511800000003,-82.6551676,S91250670,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 13:43,9.0,27.1203755,-80.67172099999999,S91308427,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 13:33,1.0,28.318267699999996,-81.457397,S91247176,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 12:19,7.0,28.228315000000002,-80.759915,S91269598,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 10:45,1.0,28.8320005,-81.6689086,S91228851,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 10:23,4.0,28.230063,-80.767107,S91228303,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 08:30,2.0,26.479444800000003,-80.6568276,S92014339,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 07:53,1.0,27.713033199999998,-82.6875043,S91318401,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 07:00,1.0,27.9094658,-82.787323,S91244804,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-04 06:26,1.0,26.306741,-80.91954100000001,S91229659,1,2021,7,4,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 19:49,5.0,28.093344000000002,-82.707504,S91203336,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 19:40,1.0,28.346622999999997,-81.60552750000001,S91200847,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 19:15,1.0,27.9281914,-82.30776999999999,S91245679,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 17:25,1.0,30.0793033,-81.61340799999999,S91193311,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 16:41,2.0,28.259187,-81.280941,S91194189,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 14:46,1.0,26.9332425,-82.03884959999999,S91195231,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 12:46,1.0,27.789489,-81.15038,S91176852,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 10:21,2.0,28.796363,-81.735602,S91167409,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 10:00,1.0,26.97614,-82.09061,S91878109,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 09:30,1.0,26.1872961,-81.7629328,S91179102,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 09:15,2.0,27.998190700000002,-81.67116170000001,S91444945,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 08:41,2.0,26.508084999999998,-81.965296,S91169970,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 08:18,1.0,26.667143699999997,-80.1680195,S91163493,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-03 07:40,1.0,26.3893478,-81.8113671,S91162578,1,2021,7,3,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-02 18:10,1.0,26.346010999999997,-80.2434878,S91138721,1,2021,7,2,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-02 18:08,1.0,26.0388949,-81.7000239,S91137587,1,2021,7,2,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-02 15:57,2.0,29.1425662,-81.3729858,S91132573,1,2021,7,2,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-02 14:14,2.0,27.325696,-82.43332099999999,S91130837,1,2021,7,2,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-02 14:01,3.0,28.551959000000004,-81.604105,S91125691,1,2021,7,2,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-07-02 12:16,1.0,26.581651,-80.1998558,S91120070,1,2021,7,2,Aramidae,No
+limpki,Limpkin,Aramus guarauna,2021-08-01 08:10,1.0,29.857,-95.164,S92603578,2,2021,8,1,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-08-01 08:10,1.0,29.857,-95.164,S92602060,2,2021,8,1,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-08-01 07:55,1.0,29.8821415,-95.1872635,S92603504,2,2021,8,1,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-08-01 07:55,1.0,29.8821415,-95.1872635,S92602609,2,2021,8,1,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 19:31,2.0,29.8821415,-95.1872635,S92595217,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 17:35,2.0,29.366846999999996,-95.622597,S92576414,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 12:07,1.0,29.366498999999997,-95.622447,S92557388,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 12:07,1.0,29.366498999999997,-95.622447,S92557389,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 11:07,1.0,29.3735739,-95.6230259,S92577137,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 08:39,1.0,29.861284499999996,-95.166951,S92544015,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 08:15,1.0,29.8821415,-95.1872635,S92542829,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:32,2.0,29.8821415,-95.1872635,S92542722,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:23,2.0,29.8821415,-95.1872635,S92538887,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-31 06:20,2.0,29.8821415,-95.1872635,S92538990,2,2021,7,31,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-30 06:41,2.0,29.857,-95.164,S92498948,2,2021,7,30,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-30 06:28,2.0,29.8821415,-95.1872635,S92495703,2,2021,7,30,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-29 19:33,2.0,29.8821415,-95.1872635,S92487735,2,2021,7,29,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-29 19:29,1.0,29.857,-95.164,S92486995,2,2021,7,29,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-29 19:20,1.0,29.8821415,-95.1872635,S92485066,2,2021,7,29,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-29 18:52,3.0,29.881803,-95.185903,S92499401,2,2021,7,29,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-29 18:52,3.0,29.881803,-95.185903,S92486522,2,2021,7,29,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-29 14:53,1.0,29.367014,-95.622489,S92482065,2,2021,7,29,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-26 17:39,2.0,29.36695,-95.622499,S92506909,2,2021,7,26,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-25 19:07,2.0,29.3735739,-95.6230259,S92304223,2,2021,7,25,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-25 09:30,1.0,29.3735739,-95.6230259,S92290914,2,2021,7,25,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-24 19:02,3.0,29.8821415,-95.1872635,S92483585,2,2021,7,24,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-24 18:21,2.0,29.366906,-95.62235600000001,S92253267,2,2021,7,24,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-24 12:22,1.0,29.8821415,-95.1872635,S92230463,2,2021,7,24,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-24 10:49,1.0,29.857,-95.164,S92228184,2,2021,7,24,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-23 16:22,1.0,29.366870000000002,-95.622436,S92192728,2,2021,7,23,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-23 10:45,2.0,29.366743800000002,-95.6224279,S92178581,2,2021,7,23,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-22 18:52,3.0,29.366384399999998,-95.6069235,S92154854,2,2021,7,22,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-22 07:30,1.0,29.3669174,-95.62253,S92135720,2,2021,7,22,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-22 06:00,2.0,29.8821415,-95.1872635,S92129074,2,2021,7,22,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-21 19:09,1.0,29.8821415,-95.1872635,S92113522,2,2021,7,21,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-21 18:30,2.0,29.366509100000002,-95.6225817,S92109415,2,2021,7,21,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-21 15:34,3.0,29.857,-95.164,S92109307,2,2021,7,21,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-21 06:30,1.0,29.857,-95.164,S92082289,2,2021,7,21,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-21 06:29,1.0,29.8821415,-95.1872635,S92087130,2,2021,7,21,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-21 06:19,2.0,29.8821415,-95.1872635,S92080185,2,2021,7,21,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-21 06:19,2.0,29.8821415,-95.1872635,S92080186,2,2021,7,21,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-21 06:19,2.0,29.8821415,-95.1872635,S92093116,2,2021,7,21,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-20 18:49,2.0,29.881688,-95.185682,S92067103,2,2021,7,20,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-20 17:14,2.0,29.8821415,-95.1872635,S92065805,2,2021,7,20,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-20 07:14,2.0,29.857,-95.164,S92038560,2,2021,7,20,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-20 06:45,1.0,29.857,-95.164,S92043855,2,2021,7,20,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-20 06:37,2.0,29.857,-95.164,S92038672,2,2021,7,20,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-20 06:30,4.0,29.857,-95.164,S92044878,2,2021,7,20,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 18:41,1.0,29.8821415,-95.1872635,S92025758,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 18:41,1.0,29.8821415,-95.1872635,S92033913,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 16:13,1.0,29.366663300000003,-95.6225819,S92009576,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 11:21,2.0,29.36668,-95.622578,S91992609,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 08:25,1.0,29.857,-95.164,S91991818,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 08:00,1.0,29.3735739,-95.6230259,S92022145,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 07:37,3.0,29.857,-95.164,S91985372,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 06:45,2.0,29.857,-95.164,S91988333,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 06:15,1.0,29.857,-95.164,S92002076,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 06:13,2.0,29.8821415,-95.1872635,S91983189,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-19 06:11,2.0,29.857,-95.164,S91986544,2,2021,7,19,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-18 19:06,2.0,29.881881,-95.185704,S92237591,2,2021,7,18,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-18 19:00,2.0,29.8821415,-95.1872635,S91970486,2,2021,7,18,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-18 18:56,2.0,29.8821415,-95.1872635,S91968399,2,2021,7,18,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-18 18:56,2.0,29.8821415,-95.1872635,S91968371,2,2021,7,18,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-18 18:00,1.0,29.3665847,-95.6225505,S92023810,2,2021,7,18,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-18 17:00,3.0,29.857,-95.164,S91972215,2,2021,7,18,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-18 17:00,3.0,29.857,-95.164,S91971504,2,2021,7,18,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-18 06:13,2.0,29.8821415,-95.1872635,S91925286,2,2021,7,18,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-17 18:49,1.0,29.366429999999998,-95.622702,S91906834,2,2021,7,17,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-17 12:10,2.0,29.366923,-95.622504,S91892339,2,2021,7,17,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-17 09:41,1.0,29.366792999999998,-95.622496,S91877321,2,2021,7,17,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-17 09:41,1.0,29.366792999999998,-95.622496,S91889974,2,2021,7,17,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-17 08:37,1.0,29.3735739,-95.6230259,S91889977,2,2021,7,17,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-17 08:37,1.0,29.3735739,-95.6230259,S91875586,2,2021,7,17,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-17 07:14,3.0,29.366487,-95.622417,S91871005,2,2021,7,17,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-17 07:14,3.0,29.366487,-95.622417,S91870221,2,2021,7,17,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 09:58,2.0,29.3735739,-95.6230259,S91833241,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S91877931,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S91986445,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S91851224,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S91888039,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S91890602,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S92039684,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S91987969,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S92402080,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S91857496,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-16 07:42,3.0,29.366384399999998,-95.6069235,S91953387,2,2021,7,16,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-15 17:10,1.0,29.366791999999997,-95.622551,S91811759,2,2021,7,15,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-15 17:10,1.0,29.366791999999997,-95.622551,S91810568,2,2021,7,15,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-15 17:10,1.0,29.366791999999997,-95.622551,S91816272,2,2021,7,15,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-15 07:38,2.0,29.366811199999997,-95.6225129,S91779815,2,2021,7,15,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-14 18:18,2.0,29.366906,-95.62235600000001,S91766024,2,2021,7,14,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-14 17:58,1.0,29.366326,-95.622485,S91794288,2,2021,7,14,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-14 13:30,1.0,29.366965999999998,-95.622461,S91778412,2,2021,7,14,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-14 08:00,1.0,29.3735739,-95.6230259,S91760678,2,2021,7,14,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-14 07:45,2.0,29.3735739,-95.6230259,S91745415,2,2021,7,14,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-13 15:30,2.0,29.366384399999998,-95.6069235,S91810324,2,2021,7,13,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-13 09:09,1.0,29.366928,-95.622486,S91693727,2,2021,7,13,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-12 18:36,2.0,29.366835100000003,-95.6226054,S91676045,2,2021,7,12,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-12 18:36,2.0,29.366835100000003,-95.6226054,S91681178,2,2021,7,12,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-12 07:32,1.0,29.366813,-95.622405,S91642500,2,2021,7,12,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 19:40,1.0,29.3667065,-95.62257679999999,S91633827,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 19:25,1.0,29.366640999999998,-95.62259300000001,S91628376,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 19:25,1.0,29.3664712,-95.62255970000001,S91628838,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 19:02,1.0,29.366417699999996,-95.6225744,S91633278,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 19:02,1.0,29.366417699999996,-95.6225744,S91633277,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 17:24,1.0,29.3735739,-95.6230259,S91620662,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 17:20,1.0,29.366615000000003,-95.6223,S91620360,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 13:20,1.0,29.358445,-95.622449,S91613576,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 13:11,1.0,29.366847999999997,-95.622498,S91611921,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-11 09:00,1.0,29.367006,-95.622417,S91594516,2,2021,7,11,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 14:44,1.0,29.366384399999998,-95.6069235,S91556340,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 14:44,1.0,29.366384399999998,-95.6069235,S91628156,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 11:34,2.0,29.366773,-95.62256,S91570075,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 11:34,2.0,29.366773,-95.62256,S91570330,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 08:32,4.0,29.366384399999998,-95.6069235,S91531516,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:52,1.0,29.3735739,-95.6230259,S91538535,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:45,4.0,29.3666615,-95.6221821,S91563580,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:35,4.0,29.366753600000003,-95.6225626,S91535369,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:35,4.0,29.366484999999997,-95.6226578,S91529117,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:34,4.0,29.355399,-95.62254200000001,S91563894,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:34,4.0,29.355399,-95.62254200000001,S91529078,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:34,4.0,29.355399,-95.62254200000001,S91529077,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-10 07:34,4.0,29.355399,-95.62254200000001,S91535182,2,2021,7,10,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-09 17:40,2.0,29.3669011,-95.62255,S91513431,2,2021,7,9,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-09 17:00,1.0,29.6148414,-94.5344353,S91505674,2,2021,7,9,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-08 14:06,3.0,29.366571999999998,-95.622599,S91448829,2,2021,7,8,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-08 13:33,2.0,29.366835100000003,-95.6226054,S91448211,2,2021,7,8,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-08 07:30,2.0,29.366889699999998,-95.6225458,S91444410,2,2021,7,8,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-08,1.0,29.3716228,-95.62245190000002,S91468538,2,2021,7,8,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-07 16:46,3.0,29.3669011,-95.62255,S91418815,2,2021,7,7,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-07 07:38,2.0,29.366887,-95.622525,S91390233,2,2021,7,7,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-05 11:40,1.0,29.366846000000002,-95.622439,S91331312,2,2021,7,5,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-05 07:05,2.0,29.366929,-95.62244799999999,S91297930,2,2021,7,5,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-05 06:38,4.0,29.366564399999998,-95.62263759999999,S91281256,2,2021,7,5,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-05 06:38,4.0,29.366564399999998,-95.62263759999999,S91282314,2,2021,7,5,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-05 06:16,4.0,29.3669011,-95.62255,S91287585,2,2021,7,5,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-04 13:01,2.0,29.366927,-95.622512,S91254898,2,2021,7,4,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-04 13:01,2.0,29.366927,-95.622512,S91254899,2,2021,7,4,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-04 12:07,2.0,29.366716999999998,-95.622557,S91243899,2,2021,7,4,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-04 06:57,2.0,29.3669,-95.62261099999999,S91219136,2,2021,7,4,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-03 16:45,3.0,29.366621999999996,-95.622511,S91196072,2,2021,7,3,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-03 06:17,2.0,29.3669011,-95.62255,S91177299,2,2021,7,3,Aramidae,Yes
+limpki,Limpkin,Aramus guarauna,2021-07-02 11:20,2.0,29.366585999999998,-95.622576,S91120726,2,2021,7,2,Aramidae,Yes
