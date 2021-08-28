@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 flask = "*"
+requests = "*"
+pandas = "*"
+plotly = "*"
 
 [dev-packages]
 
