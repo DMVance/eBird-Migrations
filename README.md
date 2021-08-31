@@ -1,10 +1,9 @@
 # Select a species to study and analyze
 
 #### Next Steps
+* Select a species to study
 * Create a deployed app - Data Engineering and Data Science
-* Perform statistical analysis
-* Make visualizations
-* Select a species to track
+* Statistical analysis and visualizations
 * Set up recurring (once per day/week) API call for observation data - streaming data
 * Create a database to store observations
 * Map observations and analyze migrations
