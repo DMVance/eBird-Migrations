@@ -10,7 +10,7 @@
 * Look for machine learning applications: NLP with webscraping to collect articles or social media mentions of species
 * 
 
-#### Technologies
+#### Tech Stack
 * API
 * JSON
 * Python
